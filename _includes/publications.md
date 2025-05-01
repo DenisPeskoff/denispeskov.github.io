@@ -1,6 +1,6 @@
--  [**The Rise of AI Generated Content in Wikpedia**](https://aclanthology.org/2024.wikinlp-1.12.pdf) (EMNLP: Advancing Natural Language Processing for Wikipedia 2024) <br /> Creston Brooks, Samuel Eggert, **Denis Peskoff** 
+-  [**The Rise of AI Generated Content in Wikipedia**](https://aclanthology.org/2024.wikinlp-1.12.pdf) (EMNLP: Advancing Natural Language Processing for Wikipedia 2024) <br /> Creston Brooks, Samuel Eggert, **Denis Peskoff** 
 
--  [**Personalized Help for Optimizing Low-Skilled Users' Strategy**](https://arxiv.org/pdf/2411.09109) (TBD 2025) <br /> Feng Gu, Wichayaporn Wongkamjan, Jordan Lee Boyd-Graber, Jonathan K Kummerfeld, **Denis Peskoff**, Jonathan May 
+-  [**Personalized Help for Optimizing Low-Skilled Users' Strategy**](https://arxiv.org/pdf/2411.09109) (NAACL 2025) <br /> Feng Gu, Wichayaporn Wongkamjan, Jordan Lee Boyd-Graber, Jonathan K Kummerfeld, **Denis Peskoff**, Jonathan May 
 
 -  [**More Victories, Less Cooperation: Assessing Cicero's Diplomacy Play**](https://aclanthology.org/2024.acl-long.672.pdf) (ACL 2024) <br />Wichayaporn Wongkamjan, Feng Gu, Yanze Wang, Ulf Hermjakob, Jonathan May, Brandon M Stewart, Jonathan K Kummerfeld, **Denis Peskoff**, Jordan Lee Boyd-Graber
 
