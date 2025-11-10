@@ -1,4 +1,4 @@
-# Denis-Peskov-s-New-Website
+# Denis-Peskoff-s-New-Website
 A modular, responsive site written with Jekyll
 
 Contact creator: sanderschulhoff@gmail.com
