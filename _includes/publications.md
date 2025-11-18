@@ -5,9 +5,9 @@
 [**RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep
 Research Agents**](https://www.arxiv.org/pdf/2511.07685) <br />Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, **Denis Peskoff**, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu
 
-[**The Rise of AI Generated Content in Wikipedia**](https://aclanthology.org/2024.wikinlp-1.12.pdf) (EMNLP: Advancing Natural Language Processing for Wikipedia 2024) <br /> Creston Brooks, Samuel Eggert, **Denis Peskoff** 
-
 [**Personalized Help for Optimizing Low-Skilled Users' Strategy**](https://arxiv.org/pdf/2411.09109) (NAACL 2025) <br /> Feng Gu, Wichayaporn Wongkamjan, Jordan Lee Boyd-Graber, Jonathan K Kummerfeld, **Denis Peskoff**, Jonathan May 
+
+[**The Rise of AI Generated Content in Wikipedia**](https://aclanthology.org/2024.wikinlp-1.12.pdf) (EMNLP: Advancing Natural Language Processing for Wikipedia 2024) <br /> Creston Brooks, Samuel Eggert, **Denis Peskoff** 
 
 [**More Victories, Less Cooperation: Assessing Cicero's Diplomacy Play**](https://aclanthology.org/2024.acl-long.672.pdf) (ACL 2024) <br />Wichayaporn Wongkamjan, Feng Gu, Yanze Wang, Ulf Hermjakob, Jonathan May, Brandon M Stewart, Jonathan K Kummerfeld, **Denis Peskoff**, Jordan Lee Boyd-Graber
 
