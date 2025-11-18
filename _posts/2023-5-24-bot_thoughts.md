@@ -3,8 +3,9 @@ title: Credible Without Credit
 permalink: /bot_thoughts/
 ---
 
-Using 10 domain experts across science and culture, we provide an initial assessment of the coherence, conciseness, accuracy, and sourcing of two language models across 100 expert-written questions. While we find the results are consistently cohesive and concise, we find that they are mixed in their accuracy. These results raise questions of the role language models should play in general-purpose and expert knowledge seeking.
 
+
+We provide an initial assessment of the coherence, conciseness, accuracy, and sourcing of two language models across 100 expert-written questions. . 
 
 
 # [Paper](https://aclanthology.org/2023.acl-short.37.pdf)
