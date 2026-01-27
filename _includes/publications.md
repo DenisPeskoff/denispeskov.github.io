@@ -1,9 +1,9 @@
+[**RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep
+Research Agents**](https://www.arxiv.org/pdf/2511.07685) (ICLR 2026) <br />Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, **Denis Peskoff**, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu
+
 [**Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?**](https://aclanthology.org/2025.emnlp-main.259.pdf) (ACL 2025) <br />Grace LeFevre, Qingcheng Zeng, Adam Leif, Jason Jewell, **Denis Peskoff**, Rob Voigt.
 
 [**Remote Labor Index: Measuring AI Automation of Remote Work**](https://arxiv.org/pdf/2510.26787) <br />Mantas Mazeika, Alice Gatti, Cristina Menghini, Udari Madhushani Sehwag, Shivam Singhal, Yury Orlovskiy, Steven Basart, Manasi Sharma, **Denis Peskoff**, Elaine Lau, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, Sumana Basu, Brad Kenstler, Yuntao Ma, Julian Michael, Xiaoke Li, Oliver Ingebretsen, Aditya Mehta, Jean Mottola, John Teichmann, Kevin Yu, Zaina Shaik, Adam Khoja, Richard Ren, Jason Hausenloy, Long Phan, Ye Htet, Ankit Aich, Tahseen Rabbani, Vivswan Shah, Andriy Novykov, Felix Binder, Kirill Chugunov, Luis Ramirez, Matias Geralnik, Hernán Mesura, Dean Lee, Ed-Yeremai Hernandez Cardona, Annette Diamond, Summer Yue, Alexandr Wang, Bing Liu, Ernesto Hernandez, Dan Hendrycks
-
-[**RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep
-Research Agents**](https://www.arxiv.org/pdf/2511.07685) <br />Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, **Denis Peskoff**, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu
 
 [**Personalized Help for Optimizing Low-Skilled Users' Strategy**](https://arxiv.org/pdf/2411.09109) (NAACL 2025) <br /> Feng Gu, Wichayaporn Wongkamjan, Jordan Lee Boyd-Graber, Jonathan K Kummerfeld, **Denis Peskoff**, Jonathan May 
 
