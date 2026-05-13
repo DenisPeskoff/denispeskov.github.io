@@ -1,6 +1,6 @@
-[**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**]((/assets/media/LOCUS_v0.pdf)(Under Review)  **Denis Peskoff**†, Joe Barrow†, Christopher Vu, Diag Davenport
+[**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**](/assets/media/LOCUS_v0.pdf)(Under Review)  **Denis Peskoff**†, Joe Barrow†, Christopher Vu, Diag Davenport
 
-[**LexChex_v0.pdf**]((/assets/media/LexChex_v0.pdf)(Under Review)  **Denis Peskoff**/†, Joe Barrow*†, Teresa Choi, Faith Wu, Diag Davenport
+[**LexChex_v0.pdf**](/assets/media/LexChex_v0.pdf)(Under Review)  **Denis Peskoff**/†, Joe Barrow*†, Teresa Choi, Faith Wu, Diag Davenport
 
 [**RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep
 Research Agents**](https://www.arxiv.org/pdf/2511.07685) (ICLR 2026) <br />Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, **Denis Peskoff**, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu
