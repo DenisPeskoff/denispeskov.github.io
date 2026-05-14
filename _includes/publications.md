@@ -2,7 +2,7 @@
 
 [**LexChex: Evaluation LLM Knowledge of Local Law**](/assets/media/LexChex_v0.pdf) (Under Review) <br /> **Denis Peskoff**†, Joe Barrow*†, Teresa Choi, Faith Wu, Diag Davenport
 
-[**Social Construction of Urban Space: Using LLMs to Identify Neighborhood Boundaries From Craigslist Ad**](https://arxiv.org/pdf/2506.00634) (ACL 2026:NLP+CSS)<br /> Adam Visokay, Ruth Bagley, Ian Kennedy, Chris Hess, Kyle Crowder, Rob Voigt, ** Denis Peskoff**
+[**Social Construction of Urban Space: Using LLMs to Identify Neighborhood Boundaries From Craigslist Ad**](https://arxiv.org/pdf/2506.00634) (ACL 2026:NLP+CSS)<br /> Adam Visokay, Ruth Bagley, Ian Kennedy, Chris Hess, Kyle Crowder, Rob Voigt, **Denis Peskoff**
 
 [**RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep
 Research Agents**](https://www.arxiv.org/pdf/2511.07685) (ICLR 2026) <br />Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, **Denis Peskoff**, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu
