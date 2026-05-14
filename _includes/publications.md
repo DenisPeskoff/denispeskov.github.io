@@ -1,4 +1,4 @@
-[**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**](/assets/media/LOCUS_v0.pdf) (Under Review) <br /> **Denis Peskoff**†, Joe Barrow†, Christopher Vu, Diag Davenport
+[**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**](/assets/media/LOCUS_v0.pdf) (Under Review) <br /> **Denis Peskoff**†, Joe Barrow†, Christopher Vu, Diag Davenport    Interactive: https://locallaws--locus-leaderboards-web.modal.run/
 
 [**LexChex: Evaluation LLM Knowledge of Local Law**](/assets/media/LexChex_v0.pdf) (Under Review) <br /> **Denis Peskoff**†, Joe Barrow*†, Teresa Choi, Faith Wu, Diag Davenport
 
