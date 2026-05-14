@@ -1,11 +1,13 @@
-[**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**](/assets/media/LOCUS_v0.pdf) (Under Review)  **Denis Peskoff**†, Joe Barrow†, Christopher Vu, Diag Davenport
+[**Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States**](/assets/media/LOCUS_v0.pdf) (Under Review) <br /> **Denis Peskoff**†, Joe Barrow†, Christopher Vu, Diag Davenport
 
-[**LexChex: Evaluation LLM Knowledge of Local Law**](/assets/media/LexChex_v0.pdf) (Under Review)  **Denis Peskoff**†, Joe Barrow*†, Teresa Choi, Faith Wu, Diag Davenport
+[**LexChex: Evaluation LLM Knowledge of Local Law**](/assets/media/LexChex_v0.pdf) (Under Review) <br /> **Denis Peskoff**†, Joe Barrow*†, Teresa Choi, Faith Wu, Diag Davenport
+
+[**Social Construction of Urban Space: Using LLMs to Identify Neighborhood Boundaries From Craigslist Ad**](https://arxiv.org/pdf/2506.00634) (ACL 2026:NLP+CSS)<br /> Adam Visokay, Ruth Bagley, Ian Kennedy, Chris Hess, Kyle Crowder, Rob Voigt, ** Denis Peskoff**
 
 [**RESEARCHRUBRICS: A Benchmark of Prompts and Rubrics For Evaluating Deep
 Research Agents**](https://www.arxiv.org/pdf/2511.07685) (ICLR 2026) <br />Manasi Sharma, Chen Bo Calvin Zhang, Chaithanya Bandi, Clinton Wang, Ankit Aich, Huy Nghiem, Tahseen Rabbani, Ye Htet, Brian Jang, Sumana Basu, Aishwarya Balwani, **Denis Peskoff**, Marcos Ayestaran, Sean M. Hendryx, Brad Kenstler, Bing Liu
 
-[**Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?**](https://aclanthology.org/2025.emnlp-main.259.pdf) (ACL 2025) <br />Grace LeFevre, Qingcheng Zeng, Adam Leif, Jason Jewell, **Denis Peskoff**, Rob Voigt.
+[**Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?**](https://aclanthology.org/2025.emnlp-main.259.pdf) (ACL 2025) vGrace LeFevre, Qingcheng Zeng, Adam Leif, Jason Jewell, **Denis Peskoff**, Rob Voigt.
 
 [**Remote Labor Index: Measuring AI Automation of Remote Work**](https://arxiv.org/pdf/2510.26787) <br />Mantas Mazeika, Alice Gatti, Cristina Menghini, Udari Madhushani Sehwag, Shivam Singhal, Yury Orlovskiy, Steven Basart, Manasi Sharma, **Denis Peskoff**, Elaine Lau, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, Sumana Basu, Brad Kenstler, Yuntao Ma, Julian Michael, Xiaoke Li, Oliver Ingebretsen, Aditya Mehta, Jean Mottola, John Teichmann, Kevin Yu, Zaina Shaik, Adam Khoja, Richard Ren, Jason Hausenloy, Long Phan, Ye Htet, Ankit Aich, Tahseen Rabbani, Vivswan Shah, Andriy Novykov, Felix Binder, Kirill Chugunov, Luis Ramirez, Matias Geralnik, Hernán Mesura, Dean Lee, Ed-Yeremai Hernandez Cardona, Annette Diamond, Summer Yue, Alexandr Wang, Bing Liu, Ernesto Hernandez, Dan Hendrycks
 
